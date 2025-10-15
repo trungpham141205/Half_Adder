@@ -65,6 +65,10 @@ Tool: Intel Quartus Prime
 
 Timing and resource utilization are analyzed post-synthesis using Quartus STA tool.
 
+Check Fmax Summary
+
 ![Fmax Report](https://github.com/trungpham141205/Half_Adder/blob/main/images/fmax_report.png)
+
+Datasheet Report
 
 ![Datasheet](https://github.com/trungpham141205/Half_Adder/blob/main/images/datasheet_report.png)
