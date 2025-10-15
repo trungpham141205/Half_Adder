@@ -10,18 +10,23 @@ Truth Table:
 
 ![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half_adder_truth_table.jpg)
 
-Circuit diagram: 
+Circuit diagram:
+
 ![Circuit Diagram](https://github.com/trungpham141205/Half_Adder/blob/main/images/circuit_diagram.png)
 
+
 2. Behavioral Description
+
 Behavioral RTL description of Half Adder written in Verilog.
 ![Behavioral Model](https://github.com/trungpham141205/Half_Adder/blob/main/images/behavioral.png)
 
 3. Verification
+
 The design is verified through a Verilog testbench and simulated using QuestaSim.
 ![Simulation Result](https://github.com/trungpham141205/Half_Adder/blob/main/images/verification.png)
 
 4. Simulation & Debug
+
 Waveform Simulation
 ![Waveform Simulation](https://github.com/trungpham141205/Half_Adder/blob/main/images/wave.png) 
 
