@@ -17,6 +17,9 @@ This project aims to understand the basic principles of combinational logic desi
 
 
 
+
+
+
 1. Specification
 
 Objective: To design a half adder circuit with two 1-bit inputs (A, B) and two 1-bit outputs (SUM, CARRY).
