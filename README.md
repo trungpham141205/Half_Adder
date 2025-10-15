@@ -14,7 +14,7 @@ Truth Table:
 Circuit diagram:
 
 
-![Circuit Diagram](https://github.com/trungpham141205/Half_Adder/blob/main/images/circuit_diagram.png)
+![Circuit Diagram](https://github.com/trungpham141205/Half_Adder/blob/main/images/half-adder-circuit.png)
 
 
 
