@@ -28,7 +28,7 @@ OL;O;2024.3;79
 R1
 vhalf_adder
 2../../src/half_adder.v
-Z3 !s110 1760511360
+Z3 !s110 1760529356
 !i10b 1
 !s100 MTR81JQIXn@OO8n1L:0EA2
 IU0gacAoUkRHAW:]6Sjo_d2
@@ -36,14 +36,14 @@ R1
 w1760502188
 8../../src/half_adder.v
 F../../src/half_adder.v
-!i122 12
+!i122 14
 L0 7 11
 Z4 VDg1SIo80bB@j0V0VzS_@n1
 Z5 OL;L;2024.3;79
 r1
 !s85 0
 31
-Z6 !s108 1760511360.000000
+Z6 !s108 1760529356.000000
 !s107 ../../src/half_adder.v|
 !s90 -reportprogress|300|../../src/half_adder.v|
 !i113 0
@@ -59,7 +59,7 @@ R1
 w1760508671
 8../../sim/half_adder_tb.v
 F../../sim/half_adder_tb.v
-!i122 13
+!i122 15
 L0 2 27
 R4
 R5
