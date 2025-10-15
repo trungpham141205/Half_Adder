@@ -9,7 +9,7 @@ Objective: To design a half adder circuit with two 1-bit inputs (A, B) and two 1
 Truth Table:
 
 
-![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half_adder_truth_table.jpg)
+![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half-adder-circuit.webp)
 
 Circuit diagram:
 
@@ -53,11 +53,18 @@ Tool: Intel Quartus Prime
 
 Objective: Synthesize Verilog into a netlist (logic gate circuit).
 
+After successful synthesis, the RTL Viewer shows the gate-level structure of the Half Adder circuit.
+
+![RTL Viewer](https://github.com/trungpham141205/Half_Adder/blob/main/images/RTL%20viewer.png)
 
 
 
 6. Static Timing Analysis
 
+Tool: Intel Quartus Prime
+
 Timing and resource utilization are analyzed post-synthesis using Quartus STA tool.
 
+![Fmax Report](https://github.com/trungpham141205/Half_Adder/blob/main/images/fmax_report.png)
 
+![Datasheet](https://github.com/trungpham141205/Half_Adder/blob/main/images/datasheet_report.png)
