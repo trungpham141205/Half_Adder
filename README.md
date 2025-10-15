@@ -35,9 +35,9 @@ Behavioral RTL description of Half Adder written in Verilog.
 
 The design is verified through a Verilog testbench and simulated using QuestaSim.
 
-![Simulation Result](https://github.com/trungpham141205/Half_Adder/blob/main/images/stimulated.png)
-
 ![Simulation Result](https://github.com/trungpham141205/Half_Adder/blob/main/images/verification.png)
+
+![Simulation Result](https://github.com/trungpham141205/Half_Adder/blob/main/images/stimulated.png)
 
 
 
