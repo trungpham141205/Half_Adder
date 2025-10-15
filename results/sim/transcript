@@ -1,23 +1,23 @@
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 18:55:56 on Oct 15,2025
+# Start time: 20:35:17 on Oct 15,2025
 # vlog -reportprogress 300 ../../src/half_adder.v 
 # -- Compiling module half_adder
 # 
 # Top level modules:
 # 	half_adder
-# End time: 18:55:56 on Oct 15,2025, Elapsed time: 0:00:00
+# End time: 20:35:17 on Oct 15,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
-# Start time: 18:55:56 on Oct 15,2025
+# Start time: 20:35:17 on Oct 15,2025
 # vlog -reportprogress 300 ../../sim/half_adder_tb.v 
 # -- Compiling module half_adder_tb
 # 
 # Top level modules:
 # 	half_adder_tb
-# End time: 18:55:56 on Oct 15,2025, Elapsed time: 0:00:00
+# End time: 20:35:17 on Oct 15,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs=""+acc"" work.half_adder_tb 
-# Start time: 18:55:57 on Oct 15,2025
+# Start time: 20:35:17 on Oct 15,2025
 # ** Note: (vsim-8009) Loading existing optimized design _opt
 # Loading work.half_adder_tb(fast)
 # Loading work.half_adder(fast)
@@ -32,6 +32,5 @@
 # Break in Module half_adder_tb at ../../sim/half_adder_tb.v line 25
 # 0 ps
 # 42 ns
-# Causality operation skipped due to absence of debug database file
-# End time: 18:56:37 on Oct 15,2025, Elapsed time: 0:00:40
+# End time: 20:36:41 on Oct 15,2025, Elapsed time: 0:01:24
 # Errors: 0, Warnings: 0
