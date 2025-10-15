@@ -6,6 +6,8 @@ This project is a basic implementation of a Half Adder using the Verilog Hardwar
 Objective: To design a half adder circuit with two 1-bit inputs (A, B) and two 1-bit outputs (SUM, CARRY).
 
 Truth Table:
+
+
 ![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half_adder_truth_table.jpg)
 
 Circuit diagram: 
@@ -19,7 +21,9 @@ Behavioral RTL description of Half Adder written in Verilog.
 The design is verified through a Verilog testbench and simulated using QuestaSim.
 ![Simulation Result](https://github.com/trungpham141205/Half_Adder/blob/main/images/verification.png)
 
-4. Simulation & Debug   
+4. Simulation & Debug
+Waveform Simulation
+![Waveform Simulation](https://github.com/trungpham141205/Half_Adder/blob/main/images/wave.png) 
 
 5. Synthesis
 
