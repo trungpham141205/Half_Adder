@@ -12,7 +12,8 @@ Circuit diagram:
 ![Circuit Diagram](https://github.com/trungpham141205/Half_Adder/blob/main/images/circuit_diagram.png)
 
 2. Behavioral Description
-
+Behavioral RTL description of Half Adder written in Verilog.
+![Behavioral Model](https://github.com/trungpham141205/Half_Adder/blob/main/images/behavioral.png)
 3. Verification
 
 4. Simulation & Debug   
