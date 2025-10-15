@@ -9,7 +9,7 @@ Objective: To design a half adder circuit with two 1-bit inputs (A, B) and two 1
 Truth Table:
 
 
-![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half-adder-circuit.webp)
+![Truth Table](https://github.com/trungpham141205/Half_Adder/blob/main/images/half_adder_truth_table.jpg)
 
 Circuit diagram:
 
