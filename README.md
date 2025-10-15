@@ -4,6 +4,19 @@ This project is a basic implementation of a Half Adder using the Verilog Hardwar
 
 This project aims to understand the basic principles of combinational logic design and the digital design flow using Verilog HDL and Intel Quartus Prime tools.
 
+
+
+## Table of Contents
+1. [Specification](#1-specification)
+2. [Behavioral Description](#2-behavioral-description)
+3. [Verification](#3-verification)
+4. [Simulation & Debug](#4-simulation--debug)
+5. [Synthesis](#5-synthesis)
+6. [Static Timing Analysis](#6-static-timing-analysis)
+7. [Conclusion](#7-conclusion)
+
+
+
 1. Specification
 
 Objective: To design a half adder circuit with two 1-bit inputs (A, B) and two 1-bit outputs (SUM, CARRY).
