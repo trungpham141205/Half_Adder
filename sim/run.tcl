@@ -7,7 +7,7 @@ if { ![file isdirectory $OUTPUT_DIR] } {
 transcript file ${OUTPUT_DIR}/transcript
 
 cd $OUTPUT_DIR
-# file delete ../../transcript
+file delete ../../transcript
 
 vlog ../../src/half_adder.v
 vlog ../../sim/half_adder_tb.v
