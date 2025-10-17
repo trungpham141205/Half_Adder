@@ -42,7 +42,7 @@ The design is verified through a Verilog testbench and simulated using QuestaSim
 
 
 4. Simulation & Debug
-50 $
+    
 Tool: QuestaSim
 
 Waveform Simulation
